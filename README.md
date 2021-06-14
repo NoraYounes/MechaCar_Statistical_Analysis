@@ -38,7 +38,7 @@ The p-value of 1 is above the assumed significance level of 0.05%, which means t
 ### One Sample t-test on Lot 2
 <img width="414" alt="D3_Lot2" src="https://user-images.githubusercontent.com/78664640/121822429-0efe9900-cc6d-11eb-8dbc-4d1ee8c9e1aa.png">
 
-The p-value of 0.60 is above the assumed significance level of 0.05%, which means that the sample mean for suspension coils and population mean are statistically similar. 
+The p-value of 0.61 is above the assumed significance level of 0.05%, which means that the sample mean for suspension coils and population mean are statistically similar. 
 
 ### One Sample t-test on Lot 3
 <img width="417" alt="D3_Lot3" src="https://user-images.githubusercontent.com/78664640/121822434-12922000-cc6d-11eb-88f7-10187c7f1dfa.png">
